@@ -2,15 +2,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -39,21 +38,17 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 
 ### Screenshot
 
-![Gif of the project](./gif_barchart.gif)
+![Png of the project](barchart.png)
 
 ### Links
 
-[Codepen](https://codepen.io/haanna/pen/VwBBWaG)
-
-## My process
-
-I started from writing a basic HTML structure and choosing a design style and fonts. Then I fetched the data, and coded the chart.
+[Codepen](https://codepen.io/ecrujido/pen/MWxQZWK)
 
 ### Built with
 
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 - D3.js
 
 ### What I learned
