@@ -38,7 +38,7 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 
 ### Screenshot
 
-![Png of the project](./barchart.png)
+![Png of the project](barchart.PNG)
 
 ### Links
 
