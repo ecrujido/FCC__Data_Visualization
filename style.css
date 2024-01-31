@@ -1,54 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap");
 
-
-*{
-    font-family: sans-serif;
+:root {
+  --black-color: black;
+  --white-color: white;
+  --green-color: green;
+  --cyan-color: cyan;
 }
 
-html{
-    height: 100%;
-}
-
-body{
-    background-color: rgb(37, 134, 166);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-
-}
-
-svg{
-    background-color: rgb(152, 198, 214);
-    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
-    padding: 1opx;
-}
-
-.bar{
-    background-color: rgb(10, 93, 121);
-    border-color: rgb(6, 25, 41);
-    fill: rgb(30, 70, 165);
-}
-
-.bar:hover{
-    fill: black;
-}
-#tooltip{
-    margin-top: 0px;
-    color: rgb(9, 9, 83);
-    font-size: 20px;
-}
-
-g{
-    color: rgb(17, 17, 141);
+html,
+body {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
-
-#title{
-    font-size: 30px;
-    fill: rgb(18, 29, 145);
-    font-weight: bold;
+body {
+  font-family: "Roboto Slab", monospace;
 }
 
+
+.container {
+  background: var(black-color);
+  padding: 50px;
+}
+
+
+.bar {
+  cursor: pointer;
+}
+
+
+.bar:hover {
+  fill: var(--green-color);
+}
+
+
+.tooltip {
+  position: absolute;
+  background: var(black-color);
+  padding: 15px;
+  border-radius: 3px;
+}

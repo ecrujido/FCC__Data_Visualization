@@ -1,4 +1,4 @@
-# Bar Chart [30 Jan 2023]
+# Bar Chart [31 Jan 2024]
 
 ## Table of contents
 
@@ -66,7 +66,7 @@ How to create bar charts in D3.js, how to use scales, text, and assign various a
 
 ## Author
 
-- Codepen - [haanna](https://codepen.io/ecrujido)
+- Codepen - [ecrujido](https://codepen.io/ecrujido)
 
 ## Acknowledgments
 
