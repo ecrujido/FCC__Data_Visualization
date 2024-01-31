@@ -1,4 +1,4 @@
-# Bar Chart [01 Feb 2024]
+# Scatterplot Graph [01 Feb 2024]
 
 ## Table of contents
 
