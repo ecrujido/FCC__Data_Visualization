@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap");
+
+
+:root {
+  --black-color: black;
+  --white-color: white;
+  --light-white-color: white;
+  --grayish-color: #e1dcdce0;
+  --light-green-color: rgb(77, 225, 77);
+}
+
+html,
+body {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  font-family: monospace;
+  background-color: var(--black-color);
+}
+
+.container {
+  background: var(--grayish-color);
+  padding: 50px;
+}
+
+.tooltip {
+  position: absolute;
+  background: var(--light-white-color);;
+  padding: 15px;
+  border-radius: 2px;
+  border: 1px solid black;
+}
