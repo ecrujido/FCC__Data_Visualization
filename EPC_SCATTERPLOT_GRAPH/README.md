@@ -1,4 +1,4 @@
-# Scatterplot Graph [01 Feb 2024]
+# Scatterplot Graph [01 February 2024]
 
 ## Table of contents
 
@@ -36,7 +36,7 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 
 ### Screenshot
 
-![Gif of the project](./gif_scatter-plot.gif)
+![Gif of the project]()
 
 ### Links
 
