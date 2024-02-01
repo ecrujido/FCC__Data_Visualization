@@ -39,7 +39,7 @@ Here is the dataset you will need to complete this project: https://raw.githubus
 
 ### Screenshot
 
-![PIC of the project](heat-map.png)
+![PIC of the project](heat-map.PNG)
 
 ### Links
 
