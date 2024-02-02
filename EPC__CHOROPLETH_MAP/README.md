@@ -52,7 +52,7 @@ Here are the datasets you will need to complete this project:
 
 ### What I learned
 
-How to create Choroplet map in D3.js, how to use scales, text, and assign various attributes.
+How to create Choropleth map in D3.js, how to use scales, text, and assign various attributes.
 
 ### Useful resources
 
