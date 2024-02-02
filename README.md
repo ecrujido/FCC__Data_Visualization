@@ -19,11 +19,11 @@ All project that I've completed and that are part of the FreeCodeCamp's Data Vis
 
 ### Links
 
-1. [Bar chart](https://github.com/ha-anna/EDU_freeCodeCamp-Data-Visualisation/tree/main/project-bar-chart) <br>
-2. [Scatter Plot](https://github.com/ha-anna/EDU_freeCodeCamp-Data-Visualisation/tree/main/project-scatter-plot) <br>
-3. [Heat Map](https://github.com/ha-anna/EDU_freeCodeCamp-Data-Visualisation/tree/main/project-heat-map) <br>
-4. [Choropleth Map](https://github.com/ha-anna/EDU_freeCodeCamp-Data-Visualisation/tree/main/project-choropleth-map) <br>
-5. [Treemap Diagram](https://github.com/ha-anna/EDU_freeCodeCamp-Data-Visualisation/tree/main/project-tree-map-diagram) <br>
+1. [Bar chart](https://github.com/ecrujido/FCC__Data_Visualization/tree/59e8695fd01de43eb6a264972d3670524af56af7/EPC__BAR_CHART) <br>
+2. [Scatter Plot](https://github.com/ecrujido/FCC__Data_Visualization/tree/59e8695fd01de43eb6a264972d3670524af56af7/EPC_SCATTERPLOT_GRAPH) <br>
+3. [Heat Map](https://github.com/ecrujido/FCC__Data_Visualization/tree/59e8695fd01de43eb6a264972d3670524af56af7/EPC__HEAT_MAP) <br>
+4. [Choropleth Map](https://github.com/ecrujido/FCC__Data_Visualization/tree/59e8695fd01de43eb6a264972d3670524af56af7/EPC__CHOROPLETH_MAP) <br>
+5. [Treemap Diagram](https://github.com/ecrujido/FCC__Data_Visualization/tree/59e8695fd01de43eb6a264972d3670524af56af7/EPC__TREEMAP_DIAGRAM) <br>
 
 ## My process
 
