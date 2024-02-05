@@ -1,4 +1,4 @@
-# Choropleth map [3 February 2024]
+# Choropleth map [6 February 2024]
 
 ## Table of contents
 
